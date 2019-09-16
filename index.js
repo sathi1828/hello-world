@@ -1,0 +1,1 @@
+console.log('demo of installing github repo as an npm package')
